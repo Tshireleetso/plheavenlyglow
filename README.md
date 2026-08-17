@@ -1,27 +1,21 @@
-# PL Heavenly Glow Dental Care — GitHub Pages site
+# PL Heavenly Glow Dental Care — GitHub Pages Site
 
-A responsive static website built for GitHub Pages.
+Static, responsive website for PL Heavenly Glow Dental Care.
 
-## Changes in this version
+This version uses a restrained editorial layout inspired by the PT Communications site: strong sans-serif typography, large left-aligned headings, clean spacing, thin rules, minimal cards and PL Heavenly Glow's blue/cyan brand palette. Only supplied practice imagery is used.
 
-- Uses a clean sans-serif typography system throughout.
-- Colours are aligned to the PL Heavenly Glow logo: bright cyan/blue, deep teal-blue, white and pale blue.
-- Uses only the practice images supplied for this revision. No AI-generated dental imagery is included.
-- Adds a real-patient before/after results section.
-- Adds the supplied special-price promotion poster.
-- Uses the phone number visible on the supplied practice artwork: **082 628 7401**.
-- Uses **plheavenlyglow.co.za** as shown on the supplied promotion.
+## Deploy to GitHub Pages
 
-## Publish on GitHub Pages
+1. Create a GitHub repository.
+2. Upload all files in this folder to the repository root.
+3. In GitHub, open **Settings → Pages**.
+4. Choose **Deploy from a branch**.
+5. Select the `main` branch and `/ (root)`.
+6. Save and wait for GitHub Pages to publish.
 
-1. Create a new GitHub repository.
-2. Upload the contents of this folder so `index.html` is at the repository root.
-3. Commit the files.
-4. In GitHub, go to **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select the `main` branch and `/ (root)` folder.
-7. Save and wait for GitHub Pages to publish the site.
+## Current contact
 
-## Important before launch
+- Phone: 082 628 7401
+- Website: plheavenlyglow.co.za
 
-Add the practice's verified address, opening hours, email, social links and booking/WhatsApp link when available. The current site does not invent those details.
+Verify address, email, opening hours and any booking/social links before launch.
