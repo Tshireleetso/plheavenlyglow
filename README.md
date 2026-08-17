@@ -1,21 +1,27 @@
-# PL Heavenly Glow Dental Care – GitHub Pages Site
+# PL Heavenly Glow Dental Care — GitHub Pages site
 
-## Files
-- `index.html`
-- `styles.css`
-- `script.js`
-- `assets/`
+A responsive static website built for GitHub Pages.
 
-## Deploy on GitHub Pages
+## Changes in this version
+
+- Uses a clean sans-serif typography system throughout.
+- Colours are aligned to the PL Heavenly Glow logo: bright cyan/blue, deep teal-blue, white and pale blue.
+- Uses only the practice images supplied for this revision. No AI-generated dental imagery is included.
+- Adds a real-patient before/after results section.
+- Adds the supplied special-price promotion poster.
+- Uses the phone number visible on the supplied practice artwork: **082 628 7401**.
+- Uses **plheavenlyglow.co.za** as shown on the supplied promotion.
+
+## Publish on GitHub Pages
+
 1. Create a new GitHub repository.
-2. Upload all files in this folder to the repository root.
-3. Go to **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select your main branch and the root folder.
-6. Save. GitHub will publish the site.
+2. Upload the contents of this folder so `index.html` is at the repository root.
+3. Commit the files.
+4. In GitHub, go to **Settings → Pages**.
+5. Under **Build and deployment**, choose **Deploy from a branch**.
+6. Select the `main` branch and `/ (root)` folder.
+7. Save and wait for GitHub Pages to publish the site.
 
-## What to customize
-- Replace the placeholder phone, email, address, and opening hours.
-- Replace the enquiry form action with Formspree, Netlify Forms, or your backend.
-- Update hero copy and service descriptions to match the real clinic.
-- Optionally add Google Maps embed and testimonials.
+## Important before launch
+
+Add the practice's verified address, opening hours, email, social links and booking/WhatsApp link when available. The current site does not invent those details.
