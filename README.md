@@ -1,21 +1,21 @@
-# PL Heavenly Glow Dental Care — GitHub Pages Site
+# PL Heavenly Glow Dental Care website
 
-Static, responsive website for PL Heavenly Glow Dental Care.
+I created this website for PL Heavenly Glow Dental Care. It presents the practice as a calm, modern and patient-focused dental brand, with clear paths to view services, see supplied treatment results, check the current dental jewellery special and call for an appointment.
 
-This version uses a restrained editorial layout inspired by the PT Communications site: strong sans-serif typography, large left-aligned headings, clean spacing, thin rules, minimal cards and PL Heavenly Glow's blue/cyan brand palette. Only supplied practice imagery is used.
+I built the site with HTML, CSS and JavaScript so it can run quickly without a framework. I created a cinematic hero, moving light rings, a service ticker, interactive treatment cards, a scan-style visit guide, an editorial results layout, scroll progress and section reveal animations. The layout adapts for desktop, tablet and mobile screens and respects reduced-motion settings.
 
-## Deploy to GitHub Pages
+The visual style combines deep clinical navy, pearl white and electric cyan. Glass navigation, rounded image architecture and smile-shaped light movement give the site its own identity while keeping the dental photography central.
 
-1. Create a GitHub repository.
-2. Upload all files in this folder to the repository root.
-3. In GitHub, open **Settings → Pages**.
-4. Choose **Deploy from a branch**.
-5. Select the `main` branch and `/ (root)`.
-6. Save and wait for GitHub Pages to publish.
+I also created `dental-guide.html`, an educational page with general information about daily care, dental visits, warning signs and cosmetic treatment. It includes a clear notice that the content is not a diagnosis or a replacement for professional advice.
 
-## Current contact
+## Files
 
-- Phone: 082 628 7401
-- Website: plheavenlyglow.co.za
+- `index.html` is the main practice website.
+- `dental-guide.html` is the dental information page.
+- `styles.css` contains the complete responsive design and motion system.
+- `script.js` controls navigation and interactive effects.
+- `assets/` contains the supplied logo, clinical images, patient results and promotion artwork.
 
-Verify address, email, opening hours and any booking/social links before launch.
+## Before publishing
+
+Confirm the practice address, operating hours, clinician details, services and prices. Obtain patient consent for every clinical photograph. The phone number shown is taken from the supplied promotional artwork. Review all health information with a qualified dental professional before publication.
