@@ -8,7 +8,7 @@ The visual style combines deep clinical navy, pearl white and electric cyan. Gla
 
 I also created `dental-guide.html`, an educational page with general information about daily care, dental visits, warning signs and cosmetic treatment. It includes a clear notice that the content is not a diagnosis or a replacement for professional advice.
 
-## Files
+## Filesn
 
 - `index.html` is the main practice website.
 - `dental-guide.html` is the dental information page.
